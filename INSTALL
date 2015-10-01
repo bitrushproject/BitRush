@@ -1,0 +1,9 @@
+Building BitRush
+
+See doc/readme-qt.rst for instructions on building BitRush QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitRush.
+
+See doc/build-*.txt for instructions on building BitRushd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitRush.
